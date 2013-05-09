@@ -1,0 +1,2936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:terms="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:mo="http://purl.org/ontology/mo/"
+  xmlns:ov="http://open.vocab.org/terms/"
+  xmlns:event="http://purl.org/NET/c4dm/event.owl#"
+  xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+  xmlns:v="http://www.w3.org/2006/vcard/ns#">
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/The+Rolling+Stones">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>The Rolling Stones</rdfs:label>
+    <terms:description>
+                    The Rolling Stones are an English rock group, formed in London in 1962. First popular in Europe, they quickly became successful in North America during the &amp;quot;British Invasion&amp;quot; of the mid 1960s. Since then, their worldwide sales are estimated at more than 200 million albums. In 1989, they were inducted into the Rock and Roll Hall of Fame, and in 2004, they ranked number 4 in Rolling Stone magazine's 100 Greatest Artists of All Time.
+
+        &lt;a href=&quot;http://www.last.fm/music/The+Rolling+Stones&quot;&gt;Read more about The Rolling Stones on Last.fm&lt;/a&gt;.
+    
+    
+User-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.
+    </terms:description>
+    <foaf:homepage rdf:resource="http://www.last.fm/music/The+Rolling+Stones"/>
+    <foaf:homepage rdf:resource="http://last.fm/music/The+Rolling+Stones"/>
+    <owl:sameAs rdf:resource="http://www.bbc.co.uk/music/artists/b071f9fa-14b0-4217-8e97-eb41da73f598#artist"/>
+    <owl:sameAs rdf:resource="http://dbtune.org/musicbrainz/resource/artist/b071f9fa-14b0-4217-8e97-eb41da73f598"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://www.last.fm/music/The+Rolling+Stones#this"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/The+Rolling+Stones#this"/>
+    <foaf:depiction rdf:resource="http://userserve-ak.last.fm/serve/34/3992023.jpg"/>
+    <foaf:depiction rdf:resource="http://userserve-ak.last.fm/serve/64/3992023.jpg"/>
+    <foaf:depiction rdf:resource="http://userserve-ak.last.fm/serve/126/3992023.jpg"/>
+    <foaf:depiction rdf:resource="http://userserve-ak.last.fm/serve/252/3992023.jpg"/>
+    <foaf:depiction rdf:resource="http://userserve-ak.last.fm/serve/_/3992023/The+Rolling+Stones+stones.jpg"/>
+    <mo:similar_to rdf:resource="http://lastfm.rdfize.com/artists/Keith+Richards"/>
+    <mo:similar_to rdf:resource="http://lastfm.rdfize.com/artists/Mick+Jagger"/>
+    <mo:similar_to rdf:resource="http://lastfm.rdfize.com/artists/The+Who"/>
+    <mo:similar_to rdf:resource="http://lastfm.rdfize.com/artists/Ron+Wood"/>
+    <mo:similar_to rdf:resource="http://lastfm.rdfize.com/artists/Led+Zeppelin"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://userserve-ak.last.fm/serve/34/3992023.jpg">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Image"/>
+    <rdfs:label>Image: The Rolling Stones (small)</rdfs:label>
+    <rdfs:label>Last FM Image: (small)</rdfs:label>
+    <terms:extent>small</terms:extent>
+    <terms:extent>small</terms:extent>
+    <terms:extent>small</terms:extent>
+    <terms:extent>small</terms:extent>
+    <terms:extent>small</terms:extent>
+    <terms:extent>small</terms:extent>
+    <terms:extent>small</terms:extent>
+    <terms:extent>small</terms:extent>
+    <terms:extent>small</terms:extent>
+    <terms:extent>small</terms:extent>
+    <terms:extent>small</terms:extent>
+    <terms:extent>small</terms:extent>
+    <terms:extent>small</terms:extent>
+    <terms:extent>small</terms:extent>
+    <terms:extent>small</terms:extent>
+    <terms:extent>small</terms:extent>
+    <terms:extent>small</terms:extent>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://userserve-ak.last.fm/serve/64/3992023.jpg">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Image"/>
+    <rdfs:label>Image: The Rolling Stones (medium)</rdfs:label>
+    <rdfs:label>Last FM Image: (medium)</rdfs:label>
+    <terms:extent>medium</terms:extent>
+    <terms:extent>medium</terms:extent>
+    <terms:extent>medium</terms:extent>
+    <terms:extent>medium</terms:extent>
+    <terms:extent>medium</terms:extent>
+    <terms:extent>medium</terms:extent>
+    <terms:extent>medium</terms:extent>
+    <terms:extent>medium</terms:extent>
+    <terms:extent>medium</terms:extent>
+    <terms:extent>medium</terms:extent>
+    <terms:extent>medium</terms:extent>
+    <terms:extent>medium</terms:extent>
+    <terms:extent>medium</terms:extent>
+    <terms:extent>medium</terms:extent>
+    <terms:extent>medium</terms:extent>
+    <terms:extent>medium</terms:extent>
+    <terms:extent>medium</terms:extent>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://userserve-ak.last.fm/serve/126/3992023.jpg">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Image"/>
+    <rdfs:label>Image: The Rolling Stones (large)</rdfs:label>
+    <rdfs:label>Last FM Image: (large)</rdfs:label>
+    <terms:extent>large</terms:extent>
+    <terms:extent>large</terms:extent>
+    <terms:extent>large</terms:extent>
+    <terms:extent>large</terms:extent>
+    <terms:extent>large</terms:extent>
+    <terms:extent>large</terms:extent>
+    <terms:extent>large</terms:extent>
+    <terms:extent>large</terms:extent>
+    <terms:extent>large</terms:extent>
+    <terms:extent>large</terms:extent>
+    <terms:extent>large</terms:extent>
+    <terms:extent>large</terms:extent>
+    <terms:extent>large</terms:extent>
+    <terms:extent>large</terms:extent>
+    <terms:extent>large</terms:extent>
+    <terms:extent>large</terms:extent>
+    <terms:extent>large</terms:extent>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://userserve-ak.last.fm/serve/252/3992023.jpg">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Image"/>
+    <rdfs:label>Image: The Rolling Stones (extralarge)</rdfs:label>
+    <rdfs:label>Last FM Image: (extralarge)</rdfs:label>
+    <terms:extent>extralarge</terms:extent>
+    <terms:extent>extralarge</terms:extent>
+    <terms:extent>extralarge</terms:extent>
+    <terms:extent>extralarge</terms:extent>
+    <terms:extent>extralarge</terms:extent>
+    <terms:extent>extralarge</terms:extent>
+    <terms:extent>extralarge</terms:extent>
+    <terms:extent>extralarge</terms:extent>
+    <terms:extent>extralarge</terms:extent>
+    <terms:extent>extralarge</terms:extent>
+    <terms:extent>extralarge</terms:extent>
+    <terms:extent>extralarge</terms:extent>
+    <terms:extent>extralarge</terms:extent>
+    <terms:extent>extralarge</terms:extent>
+    <terms:extent>extralarge</terms:extent>
+    <terms:extent>extralarge</terms:extent>
+    <terms:extent>extralarge</terms:extent>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://userserve-ak.last.fm/serve/_/3992023/The+Rolling+Stones+stones.jpg">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Image"/>
+    <rdfs:label>Image: The Rolling Stones (mega)</rdfs:label>
+    <terms:extent>mega</terms:extent>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/events/3557472">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
+    <rdfs:label>50 and Counting</rdfs:label>
+    <terms:description>&lt;div class=&quot;bbcode&quot;&gt;Tickets for Los Angeles, Anaheim, Boston and Philadelphia go on sale Monday, April 15 at 10AM local time&lt;br /&gt;&lt;br /&gt;The Rolling Stones, who rocked London and New York in 2012, announced today that they will kick off their &amp;quot;50 AND COUNTING&amp;quot; tour in Los Angeles at the STAPLES Center on May 2*.  The tour debut will be followed by performances in Oakland, San Jose, Las Vegas, Anaheim, Toronto, Chicago, Boston and Philadelphia. &lt;br /&gt;&lt;br /&gt;&amp;quot;50 AND COUNTING&amp;quot; continues the exhilarating celebration of the band's first 50 years-five decades of Mick Jagger, Keith Richards, Charlie Watts and Ronnie Wood bringing their iconic music and ground-breaking stage shows to audiences around the globe.&lt;/div&gt;</terms:description>
+    <terms:date>Sat, 11 May 2013 15:04:01</terms:date>
+    <foaf:homepage rdf:resource="http://www.last.fm/event/3557472+50+and+Counting"/>
+    <ov:machineTag>lastfm:event=3557472</ov:machineTag>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/34/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/64/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/126/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/252/3992023.jpg"/>
+    <event:place rdf:resource="http://lastfm.rdfize.com/venues/8781567"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Rolling+Stones"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://www.last.fm/event/3557472+50+and+Counting#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/venues/8781567">
+    <rdf:type rdf:resource="http://www.kanzaki.com/ns/music#Venue"/>
+    <rdfs:label>MGM Grand Garden Arena</rdfs:label>
+    <geo:lat>36.10168</geo:lat>
+    <geo:long>-115.168487</geo:long>
+    <terms:coverage rdf:resource="http://lastfm.rdfize.com/venues/8781567#address"/>
+    <foaf:homepage rdf:resource="http://www.last.fm/venue/8781567+MGM+Grand+Garden+Arena"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://www.last.fm/venue/8781567+MGM+Grand+Garden+Arena#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/venues/8781567#address">
+    <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Address"/>
+    <rdfs:label>3799 Las Vegas Boulevard South, Las Vegas, United States,  89109</rdfs:label>
+    <v:street-address>3799 Las Vegas Boulevard South</v:street-address>
+    <v:locality>Las Vegas</v:locality>
+    <v:country-name>United States</v:country-name>
+    <v:postal-code>89109</v:postal-code>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/events/3557473">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
+    <rdfs:label>50 and Counting</rdfs:label>
+    <terms:description>&lt;div class=&quot;bbcode&quot;&gt;Tickets for Los Angeles, Anaheim, Boston and Philadelphia go on sale Monday, April 15 at 10AM local time&lt;br /&gt;&lt;br /&gt;The Rolling Stones, who rocked London and New York in 2012, announced today that they will kick off their &amp;quot;50 AND COUNTING&amp;quot; tour in Los Angeles at the STAPLES Center on May 2*.  The tour debut will be followed by performances in Oakland, San Jose, Las Vegas, Anaheim, Toronto, Chicago, Boston and Philadelphia. &lt;br /&gt;&lt;br /&gt;&amp;quot;50 AND COUNTING&amp;quot; continues the exhilarating celebration of the band's first 50 years-five decades of Mick Jagger, Keith Richards, Charlie Watts and Ronnie Wood bringing their iconic music and ground-breaking stage shows to audiences around the globe.&lt;/div&gt;</terms:description>
+    <terms:date>Wed, 15 May 2013 15:05:01</terms:date>
+    <foaf:homepage rdf:resource="http://www.last.fm/event/3557473+50+and+Counting"/>
+    <ov:machineTag>lastfm:event=3557473</ov:machineTag>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/34/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/64/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/126/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/252/3992023.jpg"/>
+    <event:place rdf:resource="http://lastfm.rdfize.com/venues/8803641"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Rolling+Stones"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://www.last.fm/event/3557473+50+and+Counting#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/venues/8803641">
+    <rdf:type rdf:resource="http://www.kanzaki.com/ns/music#Venue"/>
+    <rdfs:label>Honda Center (formerly Arrowhead Pond Of Anaheim)</rdfs:label>
+    <geo:lat>33.80618</geo:lat>
+    <geo:long>-117.876477</geo:long>
+    <terms:coverage rdf:resource="http://lastfm.rdfize.com/venues/8803641#address"/>
+    <foaf:homepage rdf:resource="http://www.last.fm/venue/8803641+Honda+Center+(formerly+Arrowhead+Pond+Of+Anaheim)"/>
+    <foaf:homepage rdf:resource="http://www.last.fm/venue/8803641+Honda+Center+(formerly+Arrowhead+Pond+Of+Anaheim)"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://www.last.fm/venue/8803641+Honda+Center+(formerly+Arrowhead+Pond+Of+Anaheim)#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/venues/8803641#address">
+    <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Address"/>
+    <rdfs:label>2685 E Katella Ave, Anaheim, United States,  92806</rdfs:label>
+    <v:street-address>2685 E Katella Ave</v:street-address>
+    <v:locality>Anaheim</v:locality>
+    <v:country-name>United States</v:country-name>
+    <v:postal-code>92806</v:postal-code>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/events/3569638">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
+    <rdfs:label>50 &amp; Counting</rdfs:label>
+    <terms:date>Sat, 18 May 2013 20:00:00</terms:date>
+    <foaf:homepage rdf:resource="http://www.last.fm/event/3569638+50+-+Counting"/>
+    <ov:machineTag>lastfm:event=3569638</ov:machineTag>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/34/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/64/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/126/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/252/3992023.jpg"/>
+    <event:place rdf:resource="http://lastfm.rdfize.com/venues/8803641"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Rolling+Stones"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Mick+Taylor"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://www.last.fm/event/3569638+50+-+Counting#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Mick+Taylor">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Mick Taylor</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Mick+Taylor"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Mick+Taylor#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/events/3569788">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
+    <rdfs:label>50 and counting</rdfs:label>
+    <terms:date>Mon, 20 May 2013 20:00:00</terms:date>
+    <foaf:homepage rdf:resource="http://www.last.fm/event/3569788+50+and+counting"/>
+    <ov:machineTag>lastfm:event=3569788</ov:machineTag>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/34/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/64/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/126/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/252/3992023.jpg"/>
+    <event:place rdf:resource="http://lastfm.rdfize.com/venues/8780552"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Rolling+Stones"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://www.last.fm/event/3569788+50+and+counting#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/venues/8780552">
+    <rdf:type rdf:resource="http://www.kanzaki.com/ns/music#Venue"/>
+    <rdfs:label>Staples Center</rdfs:label>
+    <geo:lat>34.043634</geo:lat>
+    <geo:long>-118.267385</geo:long>
+    <terms:coverage rdf:resource="http://lastfm.rdfize.com/venues/8780552#address"/>
+    <foaf:homepage rdf:resource="http://www.last.fm/venue/8780552+Staples+Center"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://www.last.fm/venue/8780552+Staples+Center#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/venues/8780552#address">
+    <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Address"/>
+    <rdfs:label>1111 S. Figueroa St, Los Angeles, United States,  90015</rdfs:label>
+    <v:street-address>1111 S. Figueroa St</v:street-address>
+    <v:locality>Los Angeles</v:locality>
+    <v:country-name>United States</v:country-name>
+    <v:postal-code>90015</v:postal-code>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/events/3557421">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
+    <rdfs:label>The Rolling Stones</rdfs:label>
+    <terms:description>&lt;div class=&quot;bbcode&quot;&gt;CA $166.50 - CA $624.50&lt;br /&gt;&lt;br /&gt;Onsale to General Public&lt;br /&gt;Start: Mon, 04/08/13 10:00 AM EDT&lt;br /&gt;&lt;br /&gt;Citibank Presale&lt;br /&gt;Start: Fri, 04/05/13 10:00 AM EDT&lt;br /&gt;End: Sun, 04/07/13 05:00 PM EDT&lt;/div&gt;</terms:description>
+    <terms:date>Sat, 25 May 2013 20:00:00</terms:date>
+    <foaf:homepage rdf:resource="http://www.last.fm/event/3557421+The+Rolling+Stones+at+Air+Canada+Centre+on+25+May+2013"/>
+    <ov:machineTag>lastfm:event=3557421</ov:machineTag>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/34/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/64/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/126/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/252/3992023.jpg"/>
+    <event:place rdf:resource="http://lastfm.rdfize.com/venues/8781753"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Rolling+Stones"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://www.last.fm/event/3557421+The+Rolling+Stones+at+Air+Canada+Centre+on+25+May+2013#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/venues/8781753">
+    <rdf:type rdf:resource="http://www.kanzaki.com/ns/music#Venue"/>
+    <rdfs:label>Air Canada Centre</rdfs:label>
+    <geo:lat>43.643929</geo:lat>
+    <geo:long>-79.379305</geo:long>
+    <terms:coverage rdf:resource="http://lastfm.rdfize.com/venues/8781753#address"/>
+    <foaf:homepage rdf:resource="http://www.last.fm/venue/8781753+Air+Canada+Centre"/>
+    <foaf:homepage rdf:resource="http://www.last.fm/venue/8781753+Air+Canada+Centre"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://www.last.fm/venue/8781753+Air+Canada+Centre#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/venues/8781753#address">
+    <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Address"/>
+    <rdfs:label>40 Bay St, Toronto, Canada,  M5J 2X2</rdfs:label>
+    <v:street-address>40 Bay St</v:street-address>
+    <v:locality>Toronto</v:locality>
+    <v:country-name>Canada</v:country-name>
+    <v:postal-code>M5J 2X2</v:postal-code>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/events/3557432">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
+    <rdfs:label>The Rolling Stones</rdfs:label>
+    <terms:description>&lt;div class=&quot;bbcode&quot;&gt;Tickets on sale Monday, April 8 at 10am!&lt;br /&gt;&lt;br /&gt;US $185.00 Ticket + US $13.81 Fees/Additional Taxes = &lt;br /&gt;US $198.81&lt;br /&gt;US $600.00 Ticket + US $22.95 Fees/Additional Taxes = &lt;br /&gt;US $622.95&lt;/div&gt;</terms:description>
+    <terms:date>Tue, 28 May 2013 20:00:00</terms:date>
+    <foaf:homepage rdf:resource="http://www.last.fm/event/3557432+The+Rolling+Stones+at+United+Center+on+28+May+2013"/>
+    <ov:machineTag>lastfm:event=3557432</ov:machineTag>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/34/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/64/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/126/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/252/3992023.jpg"/>
+    <event:place rdf:resource="http://lastfm.rdfize.com/venues/8896705"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Rolling+Stones"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://www.last.fm/event/3557432+The+Rolling+Stones+at+United+Center+on+28+May+2013#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/venues/8896705">
+    <rdf:type rdf:resource="http://www.kanzaki.com/ns/music#Venue"/>
+    <rdfs:label>United Center</rdfs:label>
+    <geo:lat>41.880669</geo:lat>
+    <geo:long>-87.674175</geo:long>
+    <terms:coverage rdf:resource="http://lastfm.rdfize.com/venues/8896705#address"/>
+    <foaf:homepage rdf:resource="http://www.last.fm/venue/8896705+United+Center"/>
+    <foaf:homepage rdf:resource="http://www.last.fm/venue/8896705+United+Center"/>
+    <foaf:homepage rdf:resource="http://www.last.fm/venue/8896705+United+Center"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://www.last.fm/venue/8896705+United+Center#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/venues/8896705#address">
+    <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Address"/>
+    <rdfs:label>1901 W. Madison St., Chicago, United States,  60612</rdfs:label>
+    <v:street-address>1901 W. Madison St.</v:street-address>
+    <v:locality>Chicago</v:locality>
+    <v:country-name>United States</v:country-name>
+    <v:postal-code>60612</v:postal-code>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/events/3559565">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
+    <rdfs:label>The Rolling Stones</rdfs:label>
+    <terms:description>&lt;div class=&quot;bbcode&quot;&gt;2nd Chicago show added! Get your pre-sale tickets now! On sale to the general public on Monday, April 8 at 10am!&lt;br /&gt;&lt;br /&gt;The Rolling Stones, who rocked London and New York in 2012, announced today that they will kick off their &amp;quot;50 AND COUNTING&amp;quot; tour in Los Angeles at the STAPLES Center. (Date TBA pending NBA/NHL playoff schedules.) The tour debut will be followed by performances in Oakland, San Jose, Las Vegas, Anaheim, Toronto, Chicago, Boston and Philadelphia.&lt;br /&gt;&lt;br /&gt;&amp;quot;50 AND COUNTING&amp;quot; continues the exhilarating celebration of the band's first 50 years-five decades of Mick Jagger, Keith Richards, Charlie Watts and Ronnie Wood bringing their iconic music and ground-breaking stage shows to audiences around the globe.&lt;/div&gt;</terms:description>
+    <terms:date>Fri, 31 May 2013 20:00:00</terms:date>
+    <foaf:homepage rdf:resource="http://www.last.fm/event/3559565+The+Rolling+Stones+at+United+Center+on+31+May+2013"/>
+    <ov:machineTag>lastfm:event=3559565</ov:machineTag>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/34/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/64/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/126/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/252/3992023.jpg"/>
+    <event:place rdf:resource="http://lastfm.rdfize.com/venues/8896705"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Rolling+Stones"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://www.last.fm/event/3559565+The+Rolling+Stones+at+United+Center+on+31+May+2013#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/events/3562115">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
+    <rdfs:label>50 and Counting</rdfs:label>
+    <terms:date>Mon, 03 Jun 2013 20:00:00</terms:date>
+    <foaf:homepage rdf:resource="http://www.last.fm/event/3562115+50+and+Counting"/>
+    <ov:machineTag>lastfm:event=3562115</ov:machineTag>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/34/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/64/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/126/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/252/3992023.jpg"/>
+    <event:place rdf:resource="http://lastfm.rdfize.com/venues/8896705"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Rolling+Stones"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://www.last.fm/event/3562115+50+and+Counting#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/events/3559569">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
+    <rdfs:label>The Rolling Stones</rdfs:label>
+    <terms:description>&lt;div class=&quot;bbcode&quot;&gt;2nd Toronto show added! Get your pre-sale tickets now! On sale to the general public on Monday, April 8 at 10am!&lt;br /&gt;&lt;br /&gt;The Rolling Stones, who rocked London and New York in 2012, announced today that they will kick off their &amp;quot;50 AND COUNTING&amp;quot; tour in Los Angeles at the STAPLES Center. (Date TBA pending NBA/NHL playoff schedules.) The tour debut will be followed by performances in Oakland, San Jose, Las Vegas, Anaheim, Toronto, Chicago, Boston and Philadelphia.&lt;br /&gt;&lt;br /&gt;&amp;quot;50 AND COUNTING&amp;quot; continues the exhilarating celebration of the band's first 50 years-five decades of Mick Jagger, Keith Richards, Charlie Watts and Ronnie Wood bringing their iconic music and ground-breaking stage shows to audiences around the globe.&lt;/div&gt;</terms:description>
+    <terms:date>Thu, 06 Jun 2013 20:00:00</terms:date>
+    <foaf:homepage rdf:resource="http://www.last.fm/event/3559569+The+Rolling+Stones+at+Air+Canada+Centre+on+6+June+2013"/>
+    <ov:machineTag>lastfm:event=3559569</ov:machineTag>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/34/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/64/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/126/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/252/3992023.jpg"/>
+    <event:place rdf:resource="http://lastfm.rdfize.com/venues/8781753"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Rolling+Stones"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://www.last.fm/event/3559569+The+Rolling+Stones+at+Air+Canada+Centre+on+6+June+2013#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/events/3576741">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
+    <rdfs:label>50 and Counting</rdfs:label>
+    <terms:date>Sun, 09 Jun 2013 19:30:00</terms:date>
+    <foaf:homepage rdf:resource="http://www.last.fm/event/3576741+50+and+Counting"/>
+    <ov:machineTag>lastfm:event=3576741</ov:machineTag>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/34/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/64/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/126/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/252/3992023.jpg"/>
+    <event:place rdf:resource="http://lastfm.rdfize.com/venues/8781188"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Rolling+Stones"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://www.last.fm/event/3576741+50+and+Counting#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/venues/8781188">
+    <rdf:type rdf:resource="http://www.kanzaki.com/ns/music#Venue"/>
+    <rdfs:label>Centre Bell</rdfs:label>
+    <geo:lat>45.496193</geo:lat>
+    <geo:long>-73.570882</geo:long>
+    <terms:coverage rdf:resource="http://lastfm.rdfize.com/venues/8781188#address"/>
+    <foaf:homepage rdf:resource="http://www.last.fm/venue/8781188+Centre+Bell"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://www.last.fm/venue/8781188+Centre+Bell#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/venues/8781188#address">
+    <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Address"/>
+    <rdfs:label>1260 De la Gauchetière Ouest, , Canada,  H4B 5G0</rdfs:label>
+    <v:street-address>1260 De la Gauchetière Ouest</v:street-address>
+    <v:locality></v:locality>
+    <v:country-name>Canada</v:country-name>
+    <v:postal-code>H4B 5G0</v:postal-code>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/events/3557380">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
+    <rdfs:label>50 and Counting</rdfs:label>
+    <terms:description>&lt;div class=&quot;bbcode&quot;&gt;Tickets for Los Angeles, Anaheim, Boston and Philadelphia go on sale Monday, April 15 at 10AM local time&lt;br /&gt;&lt;br /&gt;The Rolling Stones, who rocked London and New York in 2012, announced today that they will kick off their &amp;quot;50 AND COUNTING&amp;quot; tour in Los Angeles at the STAPLES Center on May 2*.  The tour debut will be followed by performances in Oakland, San Jose, Las Vegas, Anaheim, Toronto, Chicago, Boston and Philadelphia. &lt;br /&gt;&lt;br /&gt;&amp;quot;50 AND COUNTING&amp;quot; continues the exhilarating celebration of the band's first 50 years-five decades of Mick Jagger, Keith Richards, Charlie Watts and Ronnie Wood bringing their iconic music and ground-breaking stage shows to audiences around the globe.&lt;/div&gt;</terms:description>
+    <terms:date>Wed, 12 Jun 2013 13:31:01</terms:date>
+    <foaf:homepage rdf:resource="http://www.last.fm/event/3557380+50+and+Counting"/>
+    <ov:machineTag>lastfm:event=3557380</ov:machineTag>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/34/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/64/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/126/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/252/3992023.jpg"/>
+    <event:place rdf:resource="http://lastfm.rdfize.com/venues/10231978"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Rolling+Stones"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://www.last.fm/event/3557380+50+and+Counting#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/venues/10231978">
+    <rdf:type rdf:resource="http://www.kanzaki.com/ns/music#Venue"/>
+    <rdfs:label>TD Garden</rdfs:label>
+    <geo:lat>42.36526</geo:lat>
+    <geo:long>-71.06174</geo:long>
+    <terms:coverage rdf:resource="http://lastfm.rdfize.com/venues/10231978#address"/>
+    <foaf:homepage rdf:resource="http://www.last.fm/venue/10231978+TD+Garden"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://www.last.fm/venue/10231978+TD+Garden#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/venues/10231978#address">
+    <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Address"/>
+    <rdfs:label>100 Legends Way, Boston, United States,  02114</rdfs:label>
+    <v:street-address>100 Legends Way</v:street-address>
+    <v:locality>Boston</v:locality>
+    <v:country-name>United States</v:country-name>
+    <v:postal-code>02114</v:postal-code>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/events/3557476">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
+    <rdfs:label>50 and Counting</rdfs:label>
+    <terms:description>&lt;div class=&quot;bbcode&quot;&gt;Tickets for Los Angeles, Anaheim, Boston and Philadelphia go on sale Monday, April 15 at 10AM local time&lt;br /&gt;&lt;br /&gt;The Rolling Stones, who rocked London and New York in 2012, announced today that they will kick off their &amp;quot;50 AND COUNTING&amp;quot; tour in Los Angeles at the STAPLES Center on May 2*.  The tour debut will be followed by performances in Oakland, San Jose, Las Vegas, Anaheim, Toronto, Chicago, Boston and Philadelphia. &lt;br /&gt;&lt;br /&gt;&amp;quot;50 AND COUNTING&amp;quot; continues the exhilarating celebration of the band's first 50 years-five decades of Mick Jagger, Keith Richards, Charlie Watts and Ronnie Wood bringing their iconic music and ground-breaking stage shows to audiences around the globe.&lt;/div&gt;</terms:description>
+    <terms:date>Tue, 18 Jun 2013 15:07:01</terms:date>
+    <foaf:homepage rdf:resource="http://www.last.fm/event/3557476+50+and+Counting"/>
+    <ov:machineTag>lastfm:event=3557476</ov:machineTag>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/34/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/64/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/126/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/252/3992023.jpg"/>
+    <event:place rdf:resource="http://lastfm.rdfize.com/venues/9144833"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Rolling+Stones"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://www.last.fm/event/3557476+50+and+Counting#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/venues/9144833">
+    <rdf:type rdf:resource="http://www.kanzaki.com/ns/music#Venue"/>
+    <rdfs:label>Wells Fargo Center</rdfs:label>
+    <geo:lat>39.950087</geo:lat>
+    <geo:long>-75.163994</geo:long>
+    <terms:coverage rdf:resource="http://lastfm.rdfize.com/venues/9144833#address"/>
+    <foaf:homepage rdf:resource="http://www.last.fm/venue/9144833+Wells+Fargo+Center"/>
+    <foaf:homepage rdf:resource="http://www.last.fm/venue/9144833+Wells+Fargo+Center"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://www.last.fm/venue/9144833+Wells+Fargo+Center#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/venues/9144833#address">
+    <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Address"/>
+    <rdfs:label>3601 S. Broad St., Philadelphia PA, United States,  19148</rdfs:label>
+    <v:street-address>3601 S. Broad St.</v:street-address>
+    <v:locality>Philadelphia PA</v:locality>
+    <v:country-name>United States</v:country-name>
+    <v:postal-code>19148</v:postal-code>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/events/3573356">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
+    <rdfs:label>50 and Counting</rdfs:label>
+    <terms:date>Fri, 21 Jun 2013 03:29:01</terms:date>
+    <foaf:homepage rdf:resource="http://www.last.fm/event/3573356+50+and+Counting"/>
+    <ov:machineTag>lastfm:event=3573356</ov:machineTag>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/34/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/64/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/126/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/252/3992023.jpg"/>
+    <event:place rdf:resource="http://lastfm.rdfize.com/venues/9144833"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Rolling+Stones"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://www.last.fm/event/3573356+50+and+Counting#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/events/3589170">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
+    <rdfs:label>The Rolling Stones</rdfs:label>
+    <terms:description>&lt;div class=&quot;bbcode&quot;&gt;Tickets on sale next Monday, May 13 at 10am!&lt;/div&gt;</terms:description>
+    <terms:date>Mon, 24 Jun 2013 18:24:01</terms:date>
+    <foaf:homepage rdf:resource="http://www.last.fm/event/3589170+The+Rolling+Stones+at+Verizon+Center+on+24+June+2013"/>
+    <ov:machineTag>lastfm:event=3589170</ov:machineTag>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/34/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/64/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/126/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/252/3992023.jpg"/>
+    <event:place rdf:resource="http://lastfm.rdfize.com/venues/8785557"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Rolling+Stones"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://www.last.fm/event/3589170+The+Rolling+Stones+at+Verizon+Center+on+24+June+2013#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/venues/8785557">
+    <rdf:type rdf:resource="http://www.kanzaki.com/ns/music#Venue"/>
+    <rdfs:label>Verizon Center</rdfs:label>
+    <geo:lat>38.898047</geo:lat>
+    <geo:long>-77.020922</geo:long>
+    <terms:coverage rdf:resource="http://lastfm.rdfize.com/venues/8785557#address"/>
+    <foaf:homepage rdf:resource="http://www.last.fm/venue/8785557+Verizon+Center"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://www.last.fm/venue/8785557+Verizon+Center#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/venues/8785557#address">
+    <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Address"/>
+    <rdfs:label>601 F Street, NW, Washington DC, United States,  20004</rdfs:label>
+    <v:street-address>601 F Street, NW</v:street-address>
+    <v:locality>Washington DC</v:locality>
+    <v:country-name>United States</v:country-name>
+    <v:postal-code>20004</v:postal-code>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/events/3162700">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
+    <rdfs:label>Glastonbury Festival of Contemporary Performing Arts 2013</rdfs:label>
+    <terms:description>&lt;div class=&quot;bbcode&quot;&gt;Glastonbury Festival is the largest greenfield music and performing arts festival in the world.&lt;/div&gt;</terms:description>
+    <terms:date>Wed, 26 Jun 2013 18:22:01</terms:date>
+    <foaf:homepage rdf:resource="http://www.last.fm/festival/3162700+Glastonbury+Festival+of+Contemporary+Performing+Arts+2013"/>
+    <ov:machineTag>lastfm:event=3162700</ov:machineTag>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/34/88117435.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/64/88117435.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/126/88117435.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/252/88117435.jpg"/>
+    <event:place rdf:resource="http://lastfm.rdfize.com/venues/8783201"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Rolling+Stones"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Arctic+Monkeys"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Smashing+Pumpkins"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Portishead"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Vampire+Weekend"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Nas"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Phoenix"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Editors"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Cat+Power"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Hives"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Mumford+%26+Sons"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+xx"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Crystal+Castles"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/KT+Tunstall"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Two+Door+Cinema+Club"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Kate+Nash"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Nick+Cave+and+the+Bad+Seeds"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Rufus+Wainwright"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Foals"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Elvis+Costello"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Sin%C3%A9ad+O%27Connor"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Devendra+Banhart"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Primal+Scream"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Simian+Mobile+Disco"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Public+Enemy"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Dinosaur+Jr."/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Dizzee+Rascal"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Little+Boots"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Of+Monsters+and+Men"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Chase+%26+Status"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Local+Natives"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Calexico"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Horrors"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/James+Blake"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Vaccines"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Enter+Shikari"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Hurts"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Newton+Faulkner"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Lumineers"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Example"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Frightened+Rabbit"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Tame+Impala"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/65daysofstatic"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Bobby+Womack"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Solange"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Proclaimers"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Orb"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Steve+Winwood"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Sub+Focus"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Major+Lazer"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Toro+y+Moi"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Chic"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Kenny+Rogers"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Tyler%2C+the+Creator"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Lucinda+Williams"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Wiley"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Ben+Howard"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Courteeners"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Glen+Hansard"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Martha+Wainwright"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/First+Aid+Kit"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Alt-J"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Public+Image+Ltd."/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Professor+Green"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/SBTRKT"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Weeknd"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Xavier+Rudd"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/I+Am+Kloot"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Gold+Panda"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Azealia+Banks"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Miles+Kane"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Billy+Bragg"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Alabama+Shakes"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Black+Angels"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Rita+Ora"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Alice+Russell"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Netsky"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Sergio+Mendes"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Fuck+Buttons"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Ed+Harcourt"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Daughter"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Django+Django"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Fenech-Soler"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Totally+Enormous+Extinct+Dinosaurs"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Seasick+Steve"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Bastille"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Amanda+Palmer"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Tom+Tom+Club"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Jessie+Ware"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Everything+Everything"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Dub+Pistols"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Michael+Kiwanuka"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Congos"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Disclosure"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Rudimental"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Jake+Bugg"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Rustie"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Beverley+Knight"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Haim"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Villagers"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Rodriguez"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/AlunaGeorge"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Stornoway"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/MS+MR"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Earl+Sweatshirt"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Gary+Clark+Jr."/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Lucy+Rose"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Kerri+Chandler"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Lianne+La+Havas"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Rokia+Traor%C3%A9"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/System+7"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Charles+Bradley"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+2+Bears"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Robyn+Hitchcock"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Julio+Bashmore"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Eat+Static"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Maverick+Sabre"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/DJ+Yoda"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Seth+Lakeman"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Gabrielle+Aplin"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Evan+Dando"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Tribes"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Peace"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Toy"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/GOAT"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Melody%27s+Echo+Chamber"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Tom+Odell"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Palma+Violets"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Submotion+Orchestra"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Oysterband"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Mosca"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Steve+Mason"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Savages"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/JJ+Grey+%26+Mofro"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Laura+Mvula"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Staves"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Sheepdogs"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/BadBadNotGood"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Stealing+Sheep"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Shooglenifty"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Robert+Owens"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Matthew+E.+White"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Johnny+Marr"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Half+Moon+Run"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Youngsta"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Jagwar+Ma"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Fenech+Soler"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Tim+Burgess"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Pr%C4%81ta+V%C4%93tra"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Crowns"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Mixhell"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Grant+Nelson"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Vintage+Trouble"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Flight"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Josephine"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Eats+Everything"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Dub+Colossus"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Gretchen+Peters"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Hot+Natured"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Terakaft"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Bicep"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Child+of+Lov"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Dog+Blood"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Ondatr%C3%B3pica"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Greg+Wilson"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Dr+Meaker"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Strypes"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Professor+Elemental"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Bill+Wyman%27s+Rhythm+Kings"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Maurice+Fulton"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Tyree+Cooper"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Gene+Hunt"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Destroyers"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Nile+Rodgers"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Teleman"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Digital+%26+Spirit"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Urban+Voodoo+Machine"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Ben+Caplan"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Jackmaster"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Molotov+Jukebox"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/DIY"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Skream+%26+Benga"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Bombay+Royale"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Randall"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Mad+Dog+McRea"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Penguin+Caf%C3%A9"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Horse+Meat+Disco"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Brawther"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Gypsy+Hill"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Robyn+Hitchcock+and+the+Venus+3"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Bill+Brewster"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Josh+Doyle"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/David+Rodigan"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Telling+The+Bees"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Martin+Stephenson+%26+the+Daintees"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Troker"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/THE+PORTRAITS"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Demon+Barbers"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Marcus+Brigstocke"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Bootleg+Beatles"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Tankus+the+Henge"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Josie+Long"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/MC+Chickaboo"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Don+Letts"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Tony+Benn"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Slim+Chance"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Underground+Paris"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Family+Stone"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Infinite+Monkey+Cage"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Electric+Swing+Circus"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/DJ+Tristan"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/riot+jazz"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/DJ+James+Monro"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Abandoman"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Bob+Crow"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Caroline+Lucas"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Kate+Fox"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/My+Love+is+Underground"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://www.last.fm/festival/3162700+Glastonbury+Festival+of+Contemporary+Performing+Arts+2013#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://userserve-ak.last.fm/serve/34/88117435.jpg">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Image"/>
+    <rdfs:label>Last FM Image: (small)</rdfs:label>
+    <terms:extent>small</terms:extent>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://userserve-ak.last.fm/serve/64/88117435.jpg">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Image"/>
+    <rdfs:label>Last FM Image: (medium)</rdfs:label>
+    <terms:extent>medium</terms:extent>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://userserve-ak.last.fm/serve/126/88117435.jpg">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Image"/>
+    <rdfs:label>Last FM Image: (large)</rdfs:label>
+    <terms:extent>large</terms:extent>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://userserve-ak.last.fm/serve/252/88117435.jpg">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Image"/>
+    <rdfs:label>Last FM Image: (extralarge)</rdfs:label>
+    <terms:extent>extralarge</terms:extent>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/venues/8783201">
+    <rdf:type rdf:resource="http://www.kanzaki.com/ns/music#Venue"/>
+    <rdfs:label>Worthy Farm</rdfs:label>
+    <geo:lat>51.159843</geo:lat>
+    <geo:long>-2.585621</geo:long>
+    <terms:coverage rdf:resource="http://lastfm.rdfize.com/venues/8783201#address"/>
+    <foaf:homepage rdf:resource="http://www.last.fm/venue/8783201+Worthy+Farm"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://www.last.fm/venue/8783201+Worthy+Farm#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/venues/8783201#address">
+    <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Address"/>
+    <rdfs:label>Pilton, Shepton Mallet, United Kingdom,  BA4 4BY</rdfs:label>
+    <v:street-address>Pilton</v:street-address>
+    <v:locality>Shepton Mallet</v:locality>
+    <v:country-name>United Kingdom</v:country-name>
+    <v:postal-code>BA4 4BY</v:postal-code>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Arctic+Monkeys">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Arctic Monkeys</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Arctic+Monkeys"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Arctic+Monkeys#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/The+Smashing+Pumpkins">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>The Smashing Pumpkins</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/The+Smashing+Pumpkins"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/The+Smashing+Pumpkins#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Portishead">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Portishead</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Portishead"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Portishead#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Vampire+Weekend">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Vampire Weekend</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Vampire+Weekend"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Vampire+Weekend#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Nas">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Nas</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Nas"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Nas#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Phoenix">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Phoenix</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Phoenix"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Phoenix#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Editors">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Editors</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Editors"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Editors#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Cat+Power">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Cat Power</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Cat+Power"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Cat+Power#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/The+Hives">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>The Hives</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/The+Hives"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/The+Hives#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Mumford+%26+Sons">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Mumford &amp; Sons</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Mumford+%26+Sons"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Mumford+%26+Sons#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/The+xx">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>The xx</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/The+xx"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/The+xx#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Crystal+Castles">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Crystal Castles</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Crystal+Castles"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Crystal+Castles#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/KT+Tunstall">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>KT Tunstall</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/KT+Tunstall"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/KT+Tunstall#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Two+Door+Cinema+Club">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Two Door Cinema Club</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Two+Door+Cinema+Club"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Two+Door+Cinema+Club#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Kate+Nash">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Kate Nash</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Kate+Nash"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Kate+Nash#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Nick+Cave+and+the+Bad+Seeds">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Nick Cave and the Bad Seeds</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Nick+Cave+and+the+Bad+Seeds"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Nick+Cave+and+the+Bad+Seeds#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Rufus+Wainwright">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Rufus Wainwright</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Rufus+Wainwright"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Rufus+Wainwright#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Foals">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Foals</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Foals"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Foals#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Elvis+Costello">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Elvis Costello</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Elvis+Costello"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Elvis+Costello#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Sin%C3%A9ad+O%27Connor">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Sinéad O'Connor</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Sin%C3%A9ad+O%27Connor"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Sin%C3%A9ad+O%27Connor#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Devendra+Banhart">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Devendra Banhart</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Devendra+Banhart"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Devendra+Banhart#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Primal+Scream">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Primal Scream</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Primal+Scream"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Primal+Scream#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Simian+Mobile+Disco">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Simian Mobile Disco</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Simian+Mobile+Disco"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Simian+Mobile+Disco#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Public+Enemy">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Public Enemy</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Public+Enemy"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Public+Enemy#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Dinosaur+Jr.">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Dinosaur Jr.</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Dinosaur+Jr."/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Dinosaur+Jr.#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Dizzee+Rascal">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Dizzee Rascal</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Dizzee+Rascal"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Dizzee+Rascal#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Little+Boots">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Little Boots</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Little+Boots"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Little+Boots#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Of+Monsters+and+Men">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Of Monsters and Men</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Of+Monsters+and+Men"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Of+Monsters+and+Men#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Chase+%26+Status">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Chase &amp; Status</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Chase+%26+Status"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Chase+%26+Status#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Local+Natives">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Local Natives</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Local+Natives"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Local+Natives#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Calexico">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Calexico</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Calexico"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Calexico#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/The+Horrors">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>The Horrors</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/The+Horrors"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/The+Horrors#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/James+Blake">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>James Blake</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/James+Blake"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/James+Blake#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/The+Vaccines">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>The Vaccines</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/The+Vaccines"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/The+Vaccines#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Enter+Shikari">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Enter Shikari</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Enter+Shikari"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Enter+Shikari#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Hurts">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Hurts</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Hurts"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Hurts#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Newton+Faulkner">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Newton Faulkner</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Newton+Faulkner"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Newton+Faulkner#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/The+Lumineers">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>The Lumineers</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/The+Lumineers"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/The+Lumineers#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Example">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Example</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Example"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Example#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Frightened+Rabbit">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Frightened Rabbit</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Frightened+Rabbit"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Frightened+Rabbit#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Tame+Impala">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Tame Impala</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Tame+Impala"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Tame+Impala#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/65daysofstatic">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>65daysofstatic</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/65daysofstatic"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/65daysofstatic#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Bobby+Womack">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Bobby Womack</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Bobby+Womack"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Bobby+Womack#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Solange">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Solange</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Solange"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Solange#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/The+Proclaimers">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>The Proclaimers</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/The+Proclaimers"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/The+Proclaimers#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/The+Orb">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>The Orb</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/The+Orb"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/The+Orb#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Steve+Winwood">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Steve Winwood</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Steve+Winwood"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Steve+Winwood#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Sub+Focus">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Sub Focus</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Sub+Focus"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Sub+Focus#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Major+Lazer">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Major Lazer</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Major+Lazer"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Major+Lazer#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Toro+y+Moi">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Toro y Moi</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Toro+y+Moi"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Toro+y+Moi#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Chic">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Chic</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Chic"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Chic#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Kenny+Rogers">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Kenny Rogers</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Kenny+Rogers"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Kenny+Rogers#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Tyler%2C+the+Creator">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Tyler, the Creator</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Tyler%2C+the+Creator"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Tyler%2C+the+Creator#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Lucinda+Williams">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Lucinda Williams</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Lucinda+Williams"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Lucinda+Williams#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Wiley">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Wiley</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Wiley"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Wiley#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Ben+Howard">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Ben Howard</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Ben+Howard"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Ben+Howard#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/The+Courteeners">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>The Courteeners</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/The+Courteeners"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/The+Courteeners#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Glen+Hansard">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Glen Hansard</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Glen+Hansard"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Glen+Hansard#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Martha+Wainwright">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Martha Wainwright</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Martha+Wainwright"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Martha+Wainwright#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/First+Aid+Kit">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>First Aid Kit</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/First+Aid+Kit"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/First+Aid+Kit#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Alt-J">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Alt-J</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Alt-J"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Alt-J#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Public+Image+Ltd.">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Public Image Ltd.</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Public+Image+Ltd."/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Public+Image+Ltd.#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Professor+Green">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Professor Green</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Professor+Green"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Professor+Green#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/SBTRKT">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>SBTRKT</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/SBTRKT"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/SBTRKT#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/The+Weeknd">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>The Weeknd</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/The+Weeknd"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/The+Weeknd#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Xavier+Rudd">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Xavier Rudd</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Xavier+Rudd"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Xavier+Rudd#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/I+Am+Kloot">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>I Am Kloot</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/I+Am+Kloot"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/I+Am+Kloot#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Gold+Panda">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Gold Panda</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Gold+Panda"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Gold+Panda#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Azealia+Banks">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Azealia Banks</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Azealia+Banks"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Azealia+Banks#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Miles+Kane">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Miles Kane</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Miles+Kane"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Miles+Kane#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Billy+Bragg">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Billy Bragg</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Billy+Bragg"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Billy+Bragg#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Alabama+Shakes">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Alabama Shakes</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Alabama+Shakes"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Alabama+Shakes#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/The+Black+Angels">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>The Black Angels</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/The+Black+Angels"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/The+Black+Angels#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Rita+Ora">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Rita Ora</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Rita+Ora"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Rita+Ora#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Alice+Russell">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Alice Russell</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Alice+Russell"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Alice+Russell#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Netsky">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Netsky</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Netsky"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Netsky#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Sergio+Mendes">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Sergio Mendes</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Sergio+Mendes"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Sergio+Mendes#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Fuck+Buttons">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Fuck Buttons</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Fuck+Buttons"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Fuck+Buttons#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Ed+Harcourt">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Ed Harcourt</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Ed+Harcourt"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Ed+Harcourt#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Daughter">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Daughter</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Daughter"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Daughter#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Django+Django">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Django Django</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Django+Django"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Django+Django#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Fenech-Soler">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Fenech-Soler</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Fenech-Soler"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Fenech-Soler#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Totally+Enormous+Extinct+Dinosaurs">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Totally Enormous Extinct Dinosaurs</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Totally+Enormous+Extinct+Dinosaurs"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Totally+Enormous+Extinct+Dinosaurs#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Seasick+Steve">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Seasick Steve</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Seasick+Steve"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Seasick+Steve#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Bastille">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Bastille</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Bastille"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Bastille#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Amanda+Palmer">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Amanda Palmer</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Amanda+Palmer"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Amanda+Palmer#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Tom+Tom+Club">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Tom Tom Club</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Tom+Tom+Club"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Tom+Tom+Club#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Jessie+Ware">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Jessie Ware</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Jessie+Ware"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Jessie+Ware#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Everything+Everything">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Everything Everything</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Everything+Everything"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Everything+Everything#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Dub+Pistols">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Dub Pistols</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Dub+Pistols"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Dub+Pistols#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Michael+Kiwanuka">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Michael Kiwanuka</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Michael+Kiwanuka"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Michael+Kiwanuka#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/The+Congos">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>The Congos</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/The+Congos"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/The+Congos#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Disclosure">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Disclosure</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Disclosure"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Disclosure#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Rudimental">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Rudimental</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Rudimental"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Rudimental#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Jake+Bugg">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Jake Bugg</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Jake+Bugg"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Jake+Bugg#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Rustie">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Rustie</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Rustie"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Rustie#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Beverley+Knight">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Beverley Knight</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Beverley+Knight"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Beverley+Knight#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Haim">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Haim</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Haim"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Haim#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Villagers">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Villagers</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Villagers"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Villagers#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Rodriguez">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Rodriguez</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Rodriguez"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Rodriguez#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/AlunaGeorge">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>AlunaGeorge</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/AlunaGeorge"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/AlunaGeorge#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Stornoway">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Stornoway</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Stornoway"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Stornoway#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/MS+MR">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>MS MR</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/MS+MR"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/MS+MR#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Earl+Sweatshirt">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Earl Sweatshirt</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Earl+Sweatshirt"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Earl+Sweatshirt#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Gary+Clark+Jr.">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Gary Clark Jr.</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Gary+Clark+Jr."/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Gary+Clark+Jr.#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Lucy+Rose">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Lucy Rose</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Lucy+Rose"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Lucy+Rose#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Kerri+Chandler">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Kerri Chandler</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Kerri+Chandler"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Kerri+Chandler#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Lianne+La+Havas">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Lianne La Havas</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Lianne+La+Havas"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Lianne+La+Havas#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Rokia+Traor%C3%A9">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Rokia Traoré</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Rokia+Traor%C3%A9"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Rokia+Traor%C3%A9#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/System+7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>System 7</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/System+7"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/System+7#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Charles+Bradley">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Charles Bradley</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Charles+Bradley"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Charles+Bradley#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/The+2+Bears">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>The 2 Bears</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/The+2+Bears"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/The+2+Bears#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Robyn+Hitchcock">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Robyn Hitchcock</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Robyn+Hitchcock"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Robyn+Hitchcock#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Julio+Bashmore">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Julio Bashmore</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Julio+Bashmore"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Julio+Bashmore#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Eat+Static">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Eat Static</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Eat+Static"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Eat+Static#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Maverick+Sabre">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Maverick Sabre</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Maverick+Sabre"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Maverick+Sabre#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/DJ+Yoda">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>DJ Yoda</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/DJ+Yoda"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/DJ+Yoda#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Seth+Lakeman">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Seth Lakeman</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Seth+Lakeman"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Seth+Lakeman#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Gabrielle+Aplin">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Gabrielle Aplin</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Gabrielle+Aplin"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Gabrielle+Aplin#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Evan+Dando">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Evan Dando</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Evan+Dando"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Evan+Dando#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Tribes">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Tribes</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Tribes"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Tribes#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Peace">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Peace</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Peace"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Peace#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Toy">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Toy</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Toy"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Toy#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/GOAT">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>GOAT</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/GOAT"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/GOAT#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Melody%27s+Echo+Chamber">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Melody's Echo Chamber</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Melody%27s+Echo+Chamber"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Melody%27s+Echo+Chamber#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Tom+Odell">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Tom Odell</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Tom+Odell"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Tom+Odell#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Palma+Violets">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Palma Violets</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Palma+Violets"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Palma+Violets#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Submotion+Orchestra">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Submotion Orchestra</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Submotion+Orchestra"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Submotion+Orchestra#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Oysterband">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Oysterband</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Oysterband"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Oysterband#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Mosca">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Mosca</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Mosca"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Mosca#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Steve+Mason">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Steve Mason</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Steve+Mason"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Steve+Mason#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Savages">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Savages</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Savages"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Savages#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/JJ+Grey+%26+Mofro">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>JJ Grey &amp; Mofro</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/JJ+Grey+%26+Mofro"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/JJ+Grey+%26+Mofro#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Laura+Mvula">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Laura Mvula</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Laura+Mvula"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Laura+Mvula#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/The+Staves">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>The Staves</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/The+Staves"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/The+Staves#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/The+Sheepdogs">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>The Sheepdogs</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/The+Sheepdogs"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/The+Sheepdogs#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/BadBadNotGood">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>BadBadNotGood</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/BadBadNotGood"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/BadBadNotGood#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Stealing+Sheep">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Stealing Sheep</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Stealing+Sheep"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Stealing+Sheep#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Shooglenifty">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Shooglenifty</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Shooglenifty"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Shooglenifty#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Robert+Owens">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Robert Owens</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Robert+Owens"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Robert+Owens#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Matthew+E.+White">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Matthew E. White</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Matthew+E.+White"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Matthew+E.+White#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Johnny+Marr">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Johnny Marr</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Johnny+Marr"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Johnny+Marr#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Half+Moon+Run">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Half Moon Run</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Half+Moon+Run"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Half+Moon+Run#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Youngsta">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Youngsta</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Youngsta"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Youngsta#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Jagwar+Ma">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Jagwar Ma</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Jagwar+Ma"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Jagwar+Ma#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Fenech+Soler">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Fenech Soler</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Fenech+Soler"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Fenech+Soler#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Tim+Burgess">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Tim Burgess</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Tim+Burgess"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Tim+Burgess#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Pr%C4%81ta+V%C4%93tra">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Prāta Vētra</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Pr%C4%81ta+V%C4%93tra"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Pr%C4%81ta+V%C4%93tra#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Crowns">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Crowns</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Crowns"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Crowns#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Mixhell">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Mixhell</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Mixhell"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Mixhell#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Grant+Nelson">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Grant Nelson</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Grant+Nelson"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Grant+Nelson#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Vintage+Trouble">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Vintage Trouble</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Vintage+Trouble"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Vintage+Trouble#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Flight">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Flight</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Flight"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Flight#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Josephine">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Josephine</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Josephine"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Josephine#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Eats+Everything">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Eats Everything</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Eats+Everything"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Eats+Everything#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Dub+Colossus">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Dub Colossus</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Dub+Colossus"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Dub+Colossus#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Gretchen+Peters">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Gretchen Peters</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Gretchen+Peters"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Gretchen+Peters#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Hot+Natured">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Hot Natured</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Hot+Natured"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Hot+Natured#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Terakaft">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Terakaft</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Terakaft"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Terakaft#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Bicep">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Bicep</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Bicep"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Bicep#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/The+Child+of+Lov">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>The Child of Lov</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/The+Child+of+Lov"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/The+Child+of+Lov#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Dog+Blood">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Dog Blood</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Dog+Blood"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Dog+Blood#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Ondatr%C3%B3pica">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Ondatrópica</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Ondatr%C3%B3pica"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Ondatr%C3%B3pica#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Greg+Wilson">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Greg Wilson</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Greg+Wilson"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Greg+Wilson#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Dr+Meaker">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Dr Meaker</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Dr+Meaker"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Dr+Meaker#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/The+Strypes">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>The Strypes</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/The+Strypes"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/The+Strypes#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Professor+Elemental">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Professor Elemental</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Professor+Elemental"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Professor+Elemental#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Bill+Wyman%27s+Rhythm+Kings">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Bill Wyman's Rhythm Kings</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Bill+Wyman%27s+Rhythm+Kings"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Bill+Wyman%27s+Rhythm+Kings#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Maurice+Fulton">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Maurice Fulton</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Maurice+Fulton"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Maurice+Fulton#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Tyree+Cooper">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Tyree Cooper</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Tyree+Cooper"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Tyree+Cooper#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Gene+Hunt">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Gene Hunt</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Gene+Hunt"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Gene+Hunt#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/The+Destroyers">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>The Destroyers</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/The+Destroyers"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/The+Destroyers#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Nile+Rodgers">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Nile Rodgers</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Nile+Rodgers"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Nile+Rodgers#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Teleman">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Teleman</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Teleman"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Teleman#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Digital+%26+Spirit">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Digital &amp; Spirit</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Digital+%26+Spirit"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Digital+%26+Spirit#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/The+Urban+Voodoo+Machine">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>The Urban Voodoo Machine</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/The+Urban+Voodoo+Machine"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/The+Urban+Voodoo+Machine#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Ben+Caplan">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Ben Caplan</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Ben+Caplan"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Ben+Caplan#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Jackmaster">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Jackmaster</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Jackmaster"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Jackmaster#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Molotov+Jukebox">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Molotov Jukebox</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Molotov+Jukebox"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Molotov+Jukebox#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/DIY">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>DIY</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/DIY"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/DIY#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Skream+%26+Benga">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Skream &amp; Benga</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Skream+%26+Benga"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Skream+%26+Benga#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/The+Bombay+Royale">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>The Bombay Royale</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/The+Bombay+Royale"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/The+Bombay+Royale#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Randall">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Randall</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Randall"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Randall#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Mad+Dog+McRea">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Mad Dog McRea</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Mad+Dog+McRea"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Mad+Dog+McRea#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Penguin+Caf%C3%A9">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Penguin Café</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Penguin+Caf%C3%A9"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Penguin+Caf%C3%A9#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Horse+Meat+Disco">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Horse Meat Disco</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Horse+Meat+Disco"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Horse+Meat+Disco#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Brawther">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Brawther</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Brawther"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Brawther#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Gypsy+Hill">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Gypsy Hill</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Gypsy+Hill"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Gypsy+Hill#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Robyn+Hitchcock+and+the+Venus+3">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Robyn Hitchcock and the Venus 3</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Robyn+Hitchcock+and+the+Venus+3"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Robyn+Hitchcock+and+the+Venus+3#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Bill+Brewster">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Bill Brewster</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Bill+Brewster"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Bill+Brewster#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Josh+Doyle">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Josh Doyle</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Josh+Doyle"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Josh+Doyle#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/David+Rodigan">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>David Rodigan</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/David+Rodigan"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/David+Rodigan#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Telling+The+Bees">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Telling The Bees</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Telling+The+Bees"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Telling+The+Bees#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Martin+Stephenson+%26+the+Daintees">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Martin Stephenson &amp; the Daintees</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Martin+Stephenson+%26+the+Daintees"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Martin+Stephenson+%26+the+Daintees#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Troker">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Troker</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Troker"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Troker#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/THE+PORTRAITS">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>THE PORTRAITS</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/THE+PORTRAITS"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/THE+PORTRAITS#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/The+Demon+Barbers">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>The Demon Barbers</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/The+Demon+Barbers"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/The+Demon+Barbers#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Marcus+Brigstocke">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Marcus Brigstocke</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Marcus+Brigstocke"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Marcus+Brigstocke#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/The+Bootleg+Beatles">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>The Bootleg Beatles</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/The+Bootleg+Beatles"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/The+Bootleg+Beatles#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Tankus+the+Henge">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Tankus the Henge</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Tankus+the+Henge"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Tankus+the+Henge#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Josie+Long">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Josie Long</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Josie+Long"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Josie+Long#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/MC+Chickaboo">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>MC Chickaboo</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/MC+Chickaboo"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/MC+Chickaboo#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Don+Letts">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Don Letts</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Don+Letts"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Don+Letts#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Tony+Benn">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Tony Benn</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Tony+Benn"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Tony+Benn#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Slim+Chance">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Slim Chance</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Slim+Chance"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Slim+Chance#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Underground+Paris">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Underground Paris</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Underground+Paris"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Underground+Paris#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/The+Family+Stone">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>The Family Stone</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/The+Family+Stone"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/The+Family+Stone#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/The+Infinite+Monkey+Cage">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>The Infinite Monkey Cage</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/The+Infinite+Monkey+Cage"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/The+Infinite+Monkey+Cage#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Electric+Swing+Circus">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Electric Swing Circus</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Electric+Swing+Circus"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Electric+Swing+Circus#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/DJ+Tristan">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>DJ Tristan</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/DJ+Tristan"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/DJ+Tristan#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/riot+jazz">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>riot jazz</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/riot+jazz"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/riot+jazz#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/DJ+James+Monro">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>DJ James Monro</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/DJ+James+Monro"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/DJ+James+Monro#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Abandoman">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Abandoman</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Abandoman"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Abandoman#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Bob+Crow">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Bob Crow</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Bob+Crow"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Bob+Crow#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Caroline+Lucas">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Caroline Lucas</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Caroline+Lucas"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Caroline+Lucas#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Kate+Fox">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Kate Fox</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Kate+Fox"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Kate+Fox#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/My+Love+is+Underground">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>My Love is Underground</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/My+Love+is+Underground"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/My+Love+is+Underground#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/events/3557386">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
+    <rdfs:label>The Rolling Stones</rdfs:label>
+    <terms:description>&lt;div class=&quot;bbcode&quot;&gt;THE ROLLING STONES - RETURN TO HYDE PARK&lt;br /&gt;&lt;br /&gt;Ticket details and prices here: &lt;br /&gt;&lt;a href=&quot;http://soundaroundlondon.wordpress.com/2013/04/03/rolling-stones-return-to-hyde-park/&quot; rel=&quot;nofollow&quot;&gt;http://soundaroundlondon.wordpress.com/2013/04/03/rolling-stones-return-to-hyde-park/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;We are honoured to announce that the Stones will headline Barclaycard presents British Summer Time Hyde Park on Saturday 6th July.&lt;br /&gt;&lt;br /&gt;The concert takes place almost 44 years to the day since the Stones first played Hyde Park, and will see Mick Jagger, Keith Richards, Charlie Watts and Ronnie Wood return to where they truly belong, back on the live stage, following the huge success of their ’50 and Counting’ shows last year. Their Hyde Park concert on 5 July 1969 is widely acknowledged as one of the most significant moments in modern music history. As well as seeing the live debut of guitarist Mick Taylor, the concert became a tribute to founder member Brian Jones, who had tragically passed away two days prior.&lt;br /&gt;&lt;br /&gt;Joining what will undoubtedly be another historic concert for the band are The Vaccines, The Temper Trap, Gary Clark Jr, King Charles, Palma Violets, The Boxer Rebellion, and many more across 4 stages. See the full line-up below.&lt;br /&gt;&lt;br /&gt;Tickets go on general sale at 9am on Friday 5th April. &lt;br /&gt;&lt;br /&gt;Main Stage&lt;br /&gt;The Rolling Stones&lt;br /&gt;The Vaccines&lt;br /&gt;The Temper Trap&lt;br /&gt;Gary Clark Jr.&lt;br /&gt;King Charles&lt;br /&gt;&lt;br /&gt;Barclaycard Unwind Theatre&lt;br /&gt;Palma Violets&lt;br /&gt;The Boxer Rebellion&lt;br /&gt;Temples&lt;br /&gt;Story Books&lt;br /&gt;&lt;br /&gt;Village Hall&lt;br /&gt;Tribes&lt;br /&gt;Broken Hands&lt;br /&gt;Drenge&lt;br /&gt;Gabriel Bruce&lt;br /&gt;Will Heard&lt;/div&gt;</terms:description>
+    <terms:date>Sat, 06 Jul 2013 16:00:00</terms:date>
+    <foaf:homepage rdf:resource="http://www.last.fm/event/3557386+The+Rolling+Stones"/>
+    <ov:machineTag>lastfm:event=3557386</ov:machineTag>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/34/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/64/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/126/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/252/3992023.jpg"/>
+    <event:place rdf:resource="http://lastfm.rdfize.com/venues/8778470"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Rolling+Stones"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Temper+Trap"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Vaccines"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Boxer+Rebellion"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/King+Charles"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Gary+Clark+Jr."/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Tribes"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Palma+Violets"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Temples"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Splashh"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Loom"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Drenge"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Gabriel+Bruce"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Trigger+Finger"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Story+Books"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Broken+Hands"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Whinnie+Williams"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Kimberley+Anne"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Will+Heard"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Will+Joseph+Cook"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://www.last.fm/event/3557386+The+Rolling+Stones#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/venues/8778470">
+    <rdf:type rdf:resource="http://www.kanzaki.com/ns/music#Venue"/>
+    <rdfs:label>Hyde Park</rdfs:label>
+    <geo:lat>51.5</geo:lat>
+    <geo:long>-0.1166667</geo:long>
+    <terms:coverage rdf:resource="http://lastfm.rdfize.com/venues/8778470#address"/>
+    <foaf:homepage rdf:resource="http://www.last.fm/venue/8778470+Hyde+Park"/>
+    <foaf:homepage rdf:resource="http://www.last.fm/venue/8778470+Hyde+Park"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://www.last.fm/venue/8778470+Hyde+Park#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/venues/8778470#address">
+    <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Address"/>
+    <rdfs:label>Park Lane London, London, United Kingdom,  W1Y 3DB</rdfs:label>
+    <v:street-address>Park Lane London</v:street-address>
+    <v:locality>London</v:locality>
+    <v:country-name>United Kingdom</v:country-name>
+    <v:postal-code>W1Y 3DB</v:postal-code>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/The+Temper+Trap">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>The Temper Trap</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/The+Temper+Trap"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/The+Temper+Trap#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/The+Boxer+Rebellion">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>The Boxer Rebellion</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/The+Boxer+Rebellion"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/The+Boxer+Rebellion#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/King+Charles">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>King Charles</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/King+Charles"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/King+Charles#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Temples">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Temples</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Temples"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Temples#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Splashh">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Splashh</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Splashh"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Splashh#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Loom">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Loom</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Loom"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Loom#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Drenge">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Drenge</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Drenge"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Drenge#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Gabriel+Bruce">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Gabriel Bruce</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Gabriel+Bruce"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Gabriel+Bruce#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Trigger+Finger">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Trigger Finger</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Trigger+Finger"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Trigger+Finger#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Story+Books">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Story Books</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Story+Books"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Story+Books#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Broken+Hands">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Broken Hands</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Broken+Hands"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Broken+Hands#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Whinnie+Williams">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Whinnie Williams</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Whinnie+Williams"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Whinnie+Williams#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Kimberley+Anne">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Kimberley Anne</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Kimberley+Anne"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Kimberley+Anne#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Will+Heard">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Will Heard</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Will+Heard"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Will+Heard#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Will+Joseph+Cook">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Will Joseph Cook</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Will+Joseph+Cook"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Will+Joseph+Cook#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/events/3562204">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
+    <rdfs:label>The Rolling Stones</rdfs:label>
+    <terms:description>&lt;div class=&quot;bbcode&quot;&gt;Ticket details and prices here:&lt;br /&gt;&lt;a href=&quot;http://soundaroundlondon.wordpress.com/2013/04/09/announced-the-rolling-stones-2nd-date/&quot; rel=&quot;nofollow&quot;&gt;http://soundaroundlondon.wordpress.com/2013/04/09/announced-the-rolling-stones-2nd-date/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;The Rolling Stones will be giving UK fans ‘One More Shot’ to see them live in concert this summer, with the news that Mick Jagger, Keith Richards, Charlie Watts and Ronnie Wood are to play a second London Hyde Park concert on Saturday 13 July as part of Barclaycard presents British Summer Time Hyde Park.&lt;br /&gt;&lt;br /&gt;The Rolling Stones’ first Hyde Park show on Saturday 6 July sold out within minutes of going on sale last week. Both concerts are part of the band’s 50 &amp;amp; Counting tour – for dates and information go to &lt;a href=&quot;http://www.rollingstones.com/tickets&quot; rel=&quot;nofollow&quot;&gt;www.rollingstones.com/tickets&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Tickets for the Stones in Hyde Park on 13 July go on sale 9am Friday 12April from &lt;a href=&quot;http://www.bst-hydepark.com&quot; rel=&quot;nofollow&quot;&gt;www.bst-hydepark.com&lt;/a&gt;.  Barclaycard Unwind customers will be able to purchase tickets from &lt;a href=&quot;http://www.barclaycardunwind.com&quot; rel=&quot;nofollow&quot;&gt;www.barclaycardunwind.com&lt;/a&gt; from 9am Wednesday 10April. Support for the 13 July concert comes from Jake Bugg, Tom Odell and The 1975.&lt;/div&gt;</terms:description>
+    <terms:date>Sat, 13 Jul 2013 23:54:01</terms:date>
+    <foaf:homepage rdf:resource="http://www.last.fm/event/3562204+The+Rolling+Stones+at+Hyde+Park+on+13+July+2013"/>
+    <ov:machineTag>lastfm:event=3562204</ov:machineTag>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/34/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/64/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/126/3992023.jpg"/>
+    <ov:image rdf:resource="http://userserve-ak.last.fm/serve/252/3992023.jpg"/>
+    <event:place rdf:resource="http://lastfm.rdfize.com/venues/8778470"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Rolling+Stones"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Horrors"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Fink"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Jake+Bugg"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Keziah+Jones"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+1975"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Tom+Odell"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Adam+Cohen"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Vintage+Trouble"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Hudson+Taylor"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Luke+Sital-Singh"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Public+Service+Broadcasting"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Family+Rain"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Valerie+June"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Propellers"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Wild+Smiles"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/The+Riptide+Movement"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/Hero+Fisher"/>
+    <mo:performer rdf:resource="http://lastfm.rdfize.com/artists/James+Bay"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://www.last.fm/event/3562204+The+Rolling+Stones+at+Hyde+Park+on+13+July+2013#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Fink">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Fink</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Fink"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Fink#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Keziah+Jones">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Keziah Jones</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Keziah+Jones"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Keziah+Jones#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/The+1975">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>The 1975</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/The+1975"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/The+1975#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Adam+Cohen">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Adam Cohen</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Adam+Cohen"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Adam+Cohen#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Hudson+Taylor">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Hudson Taylor</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Hudson+Taylor"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Hudson+Taylor#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Luke+Sital-Singh">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Luke Sital-Singh</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Luke+Sital-Singh"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Luke+Sital-Singh#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Public+Service+Broadcasting">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Public Service Broadcasting</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Public+Service+Broadcasting"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Public+Service+Broadcasting#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/The+Family+Rain">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>The Family Rain</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/The+Family+Rain"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/The+Family+Rain#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Valerie+June">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Valerie June</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Valerie+June"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Valerie+June#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Propellers">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Propellers</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Propellers"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Propellers#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Wild+Smiles">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Wild Smiles</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Wild+Smiles"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Wild+Smiles#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/The+Riptide+Movement">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>The Riptide Movement</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/The+Riptide+Movement"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/The+Riptide+Movement#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/Hero+Fisher">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>Hero Fisher</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/Hero+Fisher"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/Hero+Fisher#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/artists/James+Bay">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <rdfs:label>James Bay</rdfs:label>
+    <foaf:homepage rdf:resource="http://last.fm/music/James+Bay"/>
+    <owl:sameAs rdf:resource="http://linkeddata.uriburner.com/about/rdf/http://last.fm/music/James+Bay#this"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://lastfm.rdfize.com/?username=&amp;eventID=&amp;artistName=the+rolling+stones&amp;venueID=&amp;output=rdf-xml">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <rdfs:label>RDFization of last.fm artist The Rolling Stones</rdfs:label>
+    <foaf:primaryTopic rdf:resource="http://lastfm.rdfize.com/artists/The+Rolling+Stones"/>
+    <terms:source rdf:resource="http://ws.audioscrobbler.com/2.0/?method=artist.getInfo&amp;artist=the+rolling+stones&amp;api_key=3993920ee83ce2d266fd8c9408bf4971"/>
+    <terms:source rdf:resource="http://ws.audioscrobbler.com/2.0/?method=artist.getEvents&amp;artist=the+rolling+stones&amp;api_key=3993920ee83ce2d266fd8c9408bf4971"/>
+    <terms:partOf rdf:resource="http://lastfm.rdfize.com/meta.n3#Dataset"/>
+    <terms:date>2013-05-09T01:49:25-07:00</terms:date>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/The+Rolling+Stones"/>
+    <foaf:topic rdf:resource="http://userserve-ak.last.fm/serve/34/3992023.jpg"/>
+    <foaf:topic rdf:resource="http://userserve-ak.last.fm/serve/64/3992023.jpg"/>
+    <foaf:topic rdf:resource="http://userserve-ak.last.fm/serve/126/3992023.jpg"/>
+    <foaf:topic rdf:resource="http://userserve-ak.last.fm/serve/252/3992023.jpg"/>
+    <foaf:topic rdf:resource="http://userserve-ak.last.fm/serve/_/3992023/The+Rolling+Stones+stones.jpg"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/events/3557472"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/venues/8781567"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/venues/8781567#address"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/events/3557473"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/venues/8803641"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/venues/8803641#address"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/events/3569638"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Mick+Taylor"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/events/3569788"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/venues/8780552"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/venues/8780552#address"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/events/3557421"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/venues/8781753"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/venues/8781753#address"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/events/3557432"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/venues/8896705"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/venues/8896705#address"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/events/3559565"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/events/3562115"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/events/3559569"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/events/3576741"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/venues/8781188"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/venues/8781188#address"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/events/3557380"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/venues/10231978"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/venues/10231978#address"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/events/3557476"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/venues/9144833"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/venues/9144833#address"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/events/3573356"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/events/3589170"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/venues/8785557"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/venues/8785557#address"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/events/3162700"/>
+    <foaf:topic rdf:resource="http://userserve-ak.last.fm/serve/34/88117435.jpg"/>
+    <foaf:topic rdf:resource="http://userserve-ak.last.fm/serve/64/88117435.jpg"/>
+    <foaf:topic rdf:resource="http://userserve-ak.last.fm/serve/126/88117435.jpg"/>
+    <foaf:topic rdf:resource="http://userserve-ak.last.fm/serve/252/88117435.jpg"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/venues/8783201"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/venues/8783201#address"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Arctic+Monkeys"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/The+Smashing+Pumpkins"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Portishead"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Vampire+Weekend"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Nas"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Phoenix"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Editors"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Cat+Power"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/The+Hives"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Mumford+%26+Sons"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/The+xx"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Crystal+Castles"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/KT+Tunstall"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Two+Door+Cinema+Club"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Kate+Nash"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Nick+Cave+and+the+Bad+Seeds"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Rufus+Wainwright"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Foals"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Elvis+Costello"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Sin%C3%A9ad+O%27Connor"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Devendra+Banhart"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Primal+Scream"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Simian+Mobile+Disco"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Public+Enemy"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Dinosaur+Jr."/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Dizzee+Rascal"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Little+Boots"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Of+Monsters+and+Men"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Chase+%26+Status"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Local+Natives"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Calexico"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/The+Horrors"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/James+Blake"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/The+Vaccines"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Enter+Shikari"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Hurts"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Newton+Faulkner"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/The+Lumineers"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Example"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Frightened+Rabbit"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Tame+Impala"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/65daysofstatic"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Bobby+Womack"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Solange"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/The+Proclaimers"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/The+Orb"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Steve+Winwood"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Sub+Focus"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Major+Lazer"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Toro+y+Moi"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Chic"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Kenny+Rogers"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Tyler%2C+the+Creator"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Lucinda+Williams"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Wiley"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Ben+Howard"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/The+Courteeners"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Glen+Hansard"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Martha+Wainwright"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/First+Aid+Kit"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Alt-J"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Public+Image+Ltd."/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Professor+Green"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/SBTRKT"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/The+Weeknd"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Xavier+Rudd"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/I+Am+Kloot"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Gold+Panda"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Azealia+Banks"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Miles+Kane"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Billy+Bragg"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Alabama+Shakes"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/The+Black+Angels"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Rita+Ora"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Alice+Russell"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Netsky"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Sergio+Mendes"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Fuck+Buttons"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Ed+Harcourt"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Daughter"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Django+Django"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Fenech-Soler"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Totally+Enormous+Extinct+Dinosaurs"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Seasick+Steve"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Bastille"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Amanda+Palmer"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Tom+Tom+Club"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Jessie+Ware"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Everything+Everything"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Dub+Pistols"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Michael+Kiwanuka"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/The+Congos"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Disclosure"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Rudimental"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Jake+Bugg"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Rustie"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Beverley+Knight"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Haim"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Villagers"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Rodriguez"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/AlunaGeorge"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Stornoway"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/MS+MR"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Earl+Sweatshirt"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Gary+Clark+Jr."/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Lucy+Rose"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Kerri+Chandler"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Lianne+La+Havas"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Rokia+Traor%C3%A9"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/System+7"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Charles+Bradley"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/The+2+Bears"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Robyn+Hitchcock"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Julio+Bashmore"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Eat+Static"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Maverick+Sabre"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/DJ+Yoda"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Seth+Lakeman"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Gabrielle+Aplin"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Evan+Dando"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Tribes"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Peace"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Toy"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/GOAT"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Melody%27s+Echo+Chamber"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Tom+Odell"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Palma+Violets"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Submotion+Orchestra"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Oysterband"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Mosca"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Steve+Mason"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Savages"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/JJ+Grey+%26+Mofro"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Laura+Mvula"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/The+Staves"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/The+Sheepdogs"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/BadBadNotGood"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Stealing+Sheep"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Shooglenifty"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Robert+Owens"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Matthew+E.+White"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Johnny+Marr"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Half+Moon+Run"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Youngsta"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Jagwar+Ma"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Fenech+Soler"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Tim+Burgess"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Pr%C4%81ta+V%C4%93tra"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Crowns"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Mixhell"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Grant+Nelson"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Vintage+Trouble"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Flight"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Josephine"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Eats+Everything"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Dub+Colossus"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Gretchen+Peters"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Hot+Natured"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Terakaft"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Bicep"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/The+Child+of+Lov"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Dog+Blood"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Ondatr%C3%B3pica"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Greg+Wilson"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Dr+Meaker"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/The+Strypes"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Professor+Elemental"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Bill+Wyman%27s+Rhythm+Kings"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Maurice+Fulton"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Tyree+Cooper"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Gene+Hunt"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/The+Destroyers"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Nile+Rodgers"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Teleman"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Digital+%26+Spirit"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/The+Urban+Voodoo+Machine"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Ben+Caplan"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Jackmaster"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Molotov+Jukebox"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/DIY"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Skream+%26+Benga"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/The+Bombay+Royale"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Randall"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Mad+Dog+McRea"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Penguin+Caf%C3%A9"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Horse+Meat+Disco"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Brawther"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Gypsy+Hill"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Robyn+Hitchcock+and+the+Venus+3"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Bill+Brewster"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Josh+Doyle"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/David+Rodigan"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Telling+The+Bees"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Martin+Stephenson+%26+the+Daintees"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Troker"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/THE+PORTRAITS"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/The+Demon+Barbers"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Marcus+Brigstocke"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/The+Bootleg+Beatles"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Tankus+the+Henge"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Josie+Long"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/MC+Chickaboo"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Don+Letts"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Tony+Benn"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Slim+Chance"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Underground+Paris"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/The+Family+Stone"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/The+Infinite+Monkey+Cage"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Electric+Swing+Circus"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/DJ+Tristan"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/riot+jazz"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/DJ+James+Monro"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Abandoman"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Bob+Crow"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Caroline+Lucas"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Kate+Fox"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/My+Love+is+Underground"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/events/3557386"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/venues/8778470"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/venues/8778470#address"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/The+Temper+Trap"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/The+Boxer+Rebellion"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/King+Charles"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Temples"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Splashh"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Loom"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Drenge"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Gabriel+Bruce"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Trigger+Finger"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Story+Books"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Broken+Hands"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Whinnie+Williams"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Kimberley+Anne"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Will+Heard"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Will+Joseph+Cook"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/events/3562204"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Fink"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Keziah+Jones"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/The+1975"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Adam+Cohen"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Hudson+Taylor"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Luke+Sital-Singh"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Public+Service+Broadcasting"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/The+Family+Rain"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Valerie+June"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Propellers"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Wild+Smiles"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/The+Riptide+Movement"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/Hero+Fisher"/>
+    <foaf:topic rdf:resource="http://lastfm.rdfize.com/artists/James+Bay"/>
+  </rdf:Description>
+
+</rdf:RDF>
